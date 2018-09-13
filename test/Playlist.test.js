@@ -88,9 +88,10 @@ describe('Playlist', function() {
   //   var playlist = new Playlist('jazz');
   
   //   playlist.addSong(itHadToBeYou);
-  //   expect(playlist.isEmpty()).to.equal(false);
-  
   //   playlist.addSong(butNotForMe);
+  //   playlist.addSong(autumnInNewYork);
+  
+  //   playlist.removeSong(autumnInNewYork);
   
   //   expect(playlist.songNames()).to.deep.equal([
   //     'It had to be you',
